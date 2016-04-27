@@ -11,7 +11,7 @@ namespace Final_Mark_Calculator
             Console.Title = "Final Mark Calculator v1.2.3 by Sean Gorsky";
 
             #region Instructions
-            /*
+            
             Console.Write("Would you like to read the instructions? Y/N\n");
             string yesOrNo = Console.ReadLine().ToLower();
 
@@ -50,7 +50,7 @@ namespace Final_Mark_Calculator
                     yesOrNo = Console.ReadLine().ToLower();
                 }
             }
-            */
+            
             #endregion
 
             Console.Clear();
